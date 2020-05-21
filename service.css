@@ -1,0 +1,284 @@
+
+.navbar{
+
+}
+.brand{
+margin-top: 30px;
+  
+ 
+}
+#tg-img{
+    width: 0px;
+}
+
+
+.navbar-nav li{
+
+    margin-top: 38px;
+
+}
+.nav-link{
+ font-family: 'Roboto', sans-serif;
+ font-style: bold;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 21px;
+ color: #F2C94C;
+ text-transform: capitalize;
+ margin-left: 80px;
+letter-spacing: 0.05em;
+}
+.nav-link:hover{
+  background-color: #F2C94C;
+  border-radius: 15px;
+  color: black
+}
+
+
+.navbar-toggler{
+ background: #F2C94C;
+    margin-top: 33px;
+    align-self: end;
+
+    
+}
+#bg-img{
+    background-image: url("img/176.jpg");
+  
+    width: 100%px;
+    height: 100%;
+    background-size: cover;
+   
+   }
+#head{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+color: #F2C94C;
+margin-top: 216px;
+}
+#head-2{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #FFFFFF;
+margin-bottom: 189px;
+}
+#box {
+    border: 0px solid;
+    padding: 10px;
+    box-shadow: 10px 10px 23px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin: 21px;
+    height: 271px;
+    width: 224px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: -100px;
+    margin-bottom: 160px;
+    font-size: 15px;
+  }
+  #box-1 {
+    border: 0px;
+   height: 140px;
+    width: 152px;
+    
+   
+  }
+  .img-center{
+    
+    margin-top:45px;
+    margin-bottom: 26px;
+  }
+  #img-d{
+    margin-top: 100px;
+    margin-bottom: 25px;
+ }
+ #img-e{
+     margin-top: 100px;
+     margin-bottom: 25px;
+  }
+ #yel-g{
+     background-image:url("img/group.png");
+   height: 325px;
+   margin-top: -70px;
+ }
+ 
+ #img-y{
+     margin-top: 131px;
+     align-items: center;
+         }
+  #y-1{
+     margin-top: 131px;
+ font-family: Roboto;
+ font-style: normal;
+ font-weight: bold;
+ font-size: 40px;
+ line-height: 47px;
+ color: #FFFFFF;
+  }
+  #y-2{
+     font-size: 30px;
+  }
+  #img-2{
+     background-image: url("img/f-1.jpg");
+    width: 100%;
+     background-size: cover;
+     
+ }
+ #f-1{
+    
+     font-family: Roboto;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 12px;
+ margin-top: 93px;
+ color: #FFFFFF;
+  }
+ #con{
+     font-family: Roboto;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 20px;
+ line-height: 23px;
+ color: #F2C94C;
+ text-align: left;
+ }
+ 
+ #c-v{
+ margin-right: 34px;
+ }
+ #imlast{
+    
+     color: white;
+   align-items: right;
+   text-align: left;
+ }
+ #con-1{
+     color: white;
+ }
+ #im-last{
+     margin-right: 18px;
+     margin-bottom: 10px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+   /*--Media Quries--*/
+   @media (max-width:992px){
+   
+}
+
+@media (max-width:768px){
+}
+@media (max-width:576px){
+    #head{
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 60px;
+    }
+    #head-2{
+        font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 189px;
+    }
+    
+    #box {
+        border: 0px solid;
+        padding: 10px;
+        box-shadow: 5px 10px #8888882d;
+        border-radius: 10px;
+        margin: 10px;
+        height: 271px;
+        width: 224px;
+        text-align: center;
+       margin: 70px;
+        margin-top: -100px;
+        margin-bottom: 160px;
+        font-size: 15px;
+      }
+      #box-1 {
+        border: 0px;
+       height: 0px;
+        width: 0px;
+        margin-left: 50px;
+        
+       
+      }
+#y-1{
+    margin-top:50px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 20px;
+color: #F2F2F2;
+ }
+ #y-2{
+    font-size: 15px;
+ }
+
+
+
+
+#yel-g{
+    background-image:url("img/group.png");
+  height: 100%
+}
+#img-y{
+    margin-top: 31px;
+   height: 75px;
+   margin-bottom: 50px;
+
+    
+        }
+        #con{
+            font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 18px;
+        color: #F2C94C;
+        text-align: center;
+        }
+
+        #imlast{
+
+            color: white;
+          align-items: right;
+          text-align: center;
+        }
+       
+      #c-v{
+          text-align: center;
+          margin-right: 0px;
+
+      }
+      #f-1{
+
+   
+    font-size: 12px;
+    margin-top: 33px;
+    color: #FFFFFF;
+     }
+    
+}
